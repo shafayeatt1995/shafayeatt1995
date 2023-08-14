@@ -1,6 +1,6 @@
 [![MasterHead](https://animafoundation.in/wp-content/uploads/2021/03/website.gif)](https://shafayet.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shafayet Al-Anik</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on [ArbAmigo](https://sandbox.arbamigo.com)
 
