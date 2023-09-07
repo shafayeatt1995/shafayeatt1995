@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shafayet.netlify.app/](https://shafayet.netlify.app/)
 
-- 💬 Ask me about **Vue, Nuxt, Node, Express, PHP, Laravel, MongoDB, MySql**
+- 💬 Ask me about **React, Next, Vue, Nuxt, Node, Express, PHP, Laravel, MongoDB, MySql**
 
 - 📫 How to reach me **career.shafayet@gmail.com**
 
