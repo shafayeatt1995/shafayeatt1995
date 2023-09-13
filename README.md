@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shafayet Al-Anik</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [ArbAmigo](https://sandbox.arbamigo.com)
+- 🔭 I’m currently working on [ArbAmigo](https://app.arbamigo.com)
 
 - 🌱 I’m currently learning **React.js**
 
